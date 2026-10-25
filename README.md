@@ -1,15 +1,5 @@
 <p align="center">
-  <img src="./banner.gif" alt="Sherwin Guteza - Website Developer" style="max-width: 100%;" />
-</p>
-
-<h1 align="center">Hi, I'm Sherwin 👋</h1>
-
-<p align="center">
-  <b>Website Developer</b> &nbsp;·&nbsp; Webflow &nbsp;·&nbsp; Technical SEO &nbsp;·&nbsp; Responsive Design
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sherwin-guteza/">LinkedIn</a> &nbsp;·&nbsp; Cavite, Philippines
+  <img src="./banner.gif" alt="Hi, I'm Sherwin - Website Developer" style="max-width: 100%;" />
 </p>
 
 ### 👨‍💻 About me
