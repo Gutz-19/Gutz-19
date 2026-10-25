@@ -1,6 +1,6 @@
 <!--
   BANNER (optional): once you have banner.gif, upload it to this repo,
-  then delete the "<!--" and "-->" lines around the block below.
+  then delete the lines around the block below.
 
 <p align="center">
   <img src="./banner.gif" alt="Animated banner" style="max-width: 100%;" />
@@ -9,9 +9,9 @@
 
 # Hello, folks! 👋
 
-**Frontend Developer**
+**Website Developer**
 
-I'm a frontend developer with a Computer Science degree who builds and maintains responsive websites in Webflow. I care about clean UI design, fast page performance, and technical SEO, and I automate content workflows with n8n and APIs. Outside of web work, I've explored game development with Unity and C#.
+I'm a website developer with a Computer Science degree who builds and maintains responsive websites in Webflow. I care about clean UI design, fast page performance, and technical SEO, and I automate content workflows with n8n and APIs. Outside of web work, I've explored game development with Unity and C#.
 
 ## 🧰 Languages and Tools
 
