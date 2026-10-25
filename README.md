@@ -1,11 +1,6 @@
-<!--
-  BANNER (optional): once you have banner.gif, upload it to this repo,
-  then delete the lines around the block below.
-
 <p align="center">
-  <img src="./banner.gif" alt="Animated banner" style="max-width: 100%;" />
+  <img src="./banner.gif" alt="Sherwin Guteza - Website Developer" style="max-width: 100%;" />
 </p>
--->
 
 # Hello, folks! 👋
 
