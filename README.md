@@ -7,8 +7,7 @@
 - 🌐 I build and maintain responsive websites in Webflow
 - 🔍 I handle technical SEO: schema markup, page speed, and site structure
 - ⚙️ I automate content workflows with n8n and APIs
-- 🎨 I design graphics and marketing materials, such as social media posts, posters, and flyers
-- 🖌️ I create UI/UX designs in Figma, along with Photoshop and Canva
+- 🎨 I design UI/UX and graphics in Figma, Photoshop, and Canva
 - 🎓 BS in Computer Science, Cavite State University
 - 🎮 Outside of web work, I've explored game development with Unity and C#
 
