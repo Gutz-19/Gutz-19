@@ -1,0 +1,43 @@
+<!--
+  BANNER (optional): once you have banner.gif, upload it to this repo,
+  then delete the "<!--" and "-->" lines around the block below.
+
+<p align="center">
+  <img src="./banner.gif" alt="Animated banner" style="max-width: 100%;" />
+</p>
+-->
+
+# Hello, folks! 👋
+
+**Frontend Developer**
+
+I'm a frontend developer with a Computer Science degree who builds and maintains responsive websites in Webflow. I care about clean UI design, fast page performance, and technical SEO, and I automate content workflows with n8n and APIs. Outside of web work, I've explored game development with Unity and C#.
+
+## 🧰 Languages and Tools
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=webflow" width="48" /><br />Webflow</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br />Next.js</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="48" /><br />JavaScript</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="48" /><br />HTML</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="48" /><br />CSS</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br />Figma</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ps" width="48" /><br />Photoshop</td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cs" width="48" /><br />C#</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=unity" width="48" /><br />Unity</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" /><br />Java</td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br />SQL</td>
+  </tr>
+</table>
+
+## 🚀 Projects
+
+- **[Simple Projectile Motion Simulator](https://github.com/Gutz-19/Simple-Projectile-Motion-Simulator)**: a web-based simulator that plots height against time
+- **[TaskManager (C#)](https://github.com/Gutz-19/TaskManager_C-Sharp)**: a console app for managing tasks
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/sherwin-guteza/)
