@@ -2,11 +2,23 @@
   <img src="./banner.gif" alt="Sherwin Guteza - Website Developer" style="max-width: 100%;" />
 </p>
 
-# Hello, folks! 👋
+<h1 align="center">Hi, I'm Sherwin 👋</h1>
 
-**Website Developer**
+<p align="center">
+  <b>Website Developer</b> &nbsp;·&nbsp; Webflow &nbsp;·&nbsp; Technical SEO &nbsp;·&nbsp; Responsive Design
+</p>
 
-I'm a website developer with a Computer Science degree who builds and maintains responsive websites in Webflow. I care about clean UI design, fast page performance, and technical SEO, and I automate content workflows with n8n and APIs. Outside of web work, I've explored game development with Unity and C#.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sherwin-guteza/">LinkedIn</a> &nbsp;·&nbsp; Cavite, Philippines
+</p>
+
+### 👨‍💻 About me
+
+- 🌐 I build and maintain responsive websites in Webflow
+- 🔍 I handle technical SEO: schema markup, page speed, and site structure
+- ⚙️ I automate content workflows with n8n and APIs
+- 🎓 BS in Computer Science, Cavite State University
+- 🎮 Outside of web work, I've explored game development with Unity and C#
 
 ## 🧰 Languages and Tools
 
